@@ -1,0 +1,6 @@
+utility/EuScale.lo: utility/EuScale.cpp utility/EuScale.h \
+  utility/../uldaq.h
+
+utility/EuScale.h:
+
+utility/../uldaq.h:

@@ -1,0 +1,3 @@
+usb/fw/DT9837A_FW.lo: usb/fw/DT9837A_FW.c usb/fw/IntelHexRec.h
+
+usb/fw/IntelHexRec.h:

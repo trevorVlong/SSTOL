@@ -1,0 +1,4 @@
+interfaces/UlCtrConfig.lo: interfaces/UlCtrConfig.cpp \
+  interfaces/UlCtrConfig.h
+
+interfaces/UlCtrConfig.h:
